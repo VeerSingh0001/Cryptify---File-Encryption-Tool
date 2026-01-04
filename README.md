@@ -146,7 +146,7 @@ Believing that professional growth must be accompanied by social responsibility,
 <!-- change url below with your image urls (inside  src='')-->
 
 <div align="center">
-<img src="https://github.com/VeerSingh0001/Cryptify---File-Encryption-Tool/blob/main/assets/1.PNGg" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/VeerSingh0001/Cryptify---File-Encryption-Tool/blob/main/assets/1.PNG" alt="Community Service Photo 1" width="30%">
 <img src="https://github.com/VeerSingh0001/Cryptify---File-Encryption-Tool/blob/main/assets/2.PNG" alt="Community Service Photo 2" width="30%">
 <img src="https://github.com/VeerSingh0001/Cryptify---File-Encryption-Tool/blob/main/assets/3.PNG" alt="Community Service Photo 3" width="30%">
 </div>
@@ -160,7 +160,7 @@ The internship certificate serves as an official acknowledgment of the successfu
 <!-- add your certificate image url below (inside src='')-->
 
 <p align="center">
-<img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" alt="Internship Certificate" width="80%">
+<img src="" alt="Internship Certificate" width="80%">
 </p>
 
 ---
