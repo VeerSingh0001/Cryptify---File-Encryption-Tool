@@ -90,7 +90,7 @@ Finally, I solidified my understanding of network defense by studying malware be
  The project is situated in the evolving landscape of cybersecurity, where traditional cryptographic standards (like RSA and ECC) are becoming vulnerable to the looming threat of quantum computing. Cryptify is developed as a proactive security tool that integrates Post-Quantum Cryptography (PQC) into a practical, user-friendly application. It leverages the liboqs library, which provides implementations of algorithms evaluated by NIST for quantum resistance. The context of the project is to provide a "Lock it down" solution that is not only effective against current classical threats but is also "future-proofed" against quantum-scale decryption attempts.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/DALVEER-SINGH-g13-cs-1/blob/d699b36189086588dd77396f81669fe9a3e3c1f3/Course%20report/CRYPTIFY.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/VeerSingh0001/Cryptify---File-Encryption-Tool/blob/main/CRYPTIFY.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
